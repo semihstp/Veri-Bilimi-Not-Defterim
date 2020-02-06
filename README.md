@@ -13,3 +13,8 @@ basit bir kaynak oluşturmak ve hatta beraber
 
 
 ![138-1385735_data-analytics-and-visualization-analysis-clipart](https://user-images.githubusercontent.com/56072259/73851165-15416180-483e-11ea-85fd-a3727948f917.png)
+
+## İletişim bilgileri:
+### mail : sgulum98@gmail.com 
+### [linkedin](https://www.linkedin.com/in/semih-g%C3%BCl%C3%BCm-a53981151/)
+### [instagram] (https://www.instagram.com/semihgulum/)
