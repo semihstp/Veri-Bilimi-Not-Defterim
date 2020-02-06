@@ -17,4 +17,4 @@ basit bir kaynak oluşturmak ve hatta beraber
 ## İletişim bilgileri:
 ### mail : sgulum98@gmail.com 
 ### [linkedin](https://www.linkedin.com/in/semih-g%C3%BCl%C3%BCm-a53981151/)
-### [instagram] (https://www.instagram.com/semihgulum/)
+### [instagram](https://www.instagram.com/semihgulum/)
