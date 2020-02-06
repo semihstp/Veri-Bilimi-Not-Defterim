@@ -1,5 +1,5 @@
     
-# _Neden Numpy kütüphanesi bu kadar önemli ?
+# _Neden Numpy kütüphanesi bu kadar önemli ?_
 
 * ###   Bilimsel hesaplar için kullanılır.
 * ###  Çok boyutlu dizi işlemlerini döngü kullanmadan yapmamıza olanak yarar
