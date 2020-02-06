@@ -1,4 +1,4 @@
-# Veri-Bilimi-Not-Defterim
+# Veri Bilimi Not Defterim
 
 ## Herkese merhaba,
 
