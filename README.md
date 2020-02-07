@@ -1,4 +1,5 @@
-# Veri Bilimi Not Defterim
+
+# <font color='green'> Veri Bilimi Not Defterim
 
 ## Herkese merhaba,
 
