@@ -11,6 +11,12 @@ düzenleyerek bu işe girecek olan arkadaşlara
 basit bir kaynak oluşturmak ve hatta beraber
 öğrenmek.
 
+NOT : Bu yoldaki ana kaynağım hatta tabiri caizse 
+rehberim dediğim kursunun linkini bırakıyorum.
+Konu ile ilgilenenlere kesinlikle tavsiye ederim.
+Sade ve anlaşılır bir anlatımı var.  
+https://www.udemy.com/course/veri-bilimine-giris/
+
 
 ![138-1385735_data-analytics-and-visualization-analysis-clipart](https://user-images.githubusercontent.com/56072259/73851165-15416180-483e-11ea-85fd-a3727948f917.png)
 
