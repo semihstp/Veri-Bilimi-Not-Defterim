@@ -13,7 +13,7 @@ basit bir kaynak oluşturmak ve hatta beraber
 öğrenmek.
 
 NOT : Bu yoldaki ana kaynağım hatta tabiri caizse 
-rehberim dediğim kursunun linkini bırakıyorum.
+rehberim dediğim kursun linkini bırakıyorum.
 Konu ile ilgilenenlere kesinlikle tavsiye ederim.
 Sade ve anlaşılır bir anlatımı var.  
 https://www.udemy.com/course/veri-bilimine-giris/
